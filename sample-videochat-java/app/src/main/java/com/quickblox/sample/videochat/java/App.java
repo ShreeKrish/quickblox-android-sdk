@@ -10,12 +10,12 @@ import io.fabric.sdk.android.Fabric;
 
 public class App extends Application {
     //App credentials
-    private static final String APPLICATION_ID = "";
-    private static final String AUTH_KEY = "";
-    private static final String AUTH_SECRET = "";
-    private static final String ACCOUNT_KEY = "";
+    private static final String APPLICATION_ID = "84798";
+    private static final String AUTH_KEY = "tR8wxVymffUftAX";
+    private static final String AUTH_SECRET = "6yUfWDtGPFOuMHz";
+    private static final String ACCOUNT_KEY = "tHFF88qZdWpnL2gb7fzy";
 
-    public static final String USER_DEFAULT_PASSWORD = "quickblox";
+    public static final String USER_DEFAULT_PASSWORD = "kinetrix";
 
     private static App instance;
     private QBResRequestExecutor qbResRequestExecutor;
